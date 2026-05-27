@@ -346,3 +346,25 @@ Please open an issue first for major changes so we can discuss the approach.
 <p align="center">
   MIT License &copy; <a href="https://github.com/Lum1104">Lum1104</a>
 </p>
+
+
+---
+
+## 🚨 Scoras Digital DevOps Agent — Verificação
+
+[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-20%2F100%20(F)-red?style=for-the-badge&logo=github)](./andersonamaral2_Understand-Anything_2026-05-27.md)
+[![Scoras DevOps Agent](https://img.shields.io/badge/Scoras_DevOps_Agent-Verificado-blue?style=for-the-badge&logo=githubactions)](https://github.com/andersonamaral2/Understand-Anything)
+
+| Campo | Valor |
+|-------|-------|
+| 🤖 Avaliado por | Scoras Digital DevOps Agent |
+| 📅 Data da Avaliação | `27/05/2026` |
+| 📊 Score DevOps & Segurança | `20/100` |
+| 🎯 Nota | F — Crítico |
+| 📄 Relatório Completo | [andersonamaral2_Understand-Anything_2026-05-27.md](./andersonamaral2_Understand-Anything_2026-05-27.md) |
+
+> *Este repositório foi auditado automaticamente pelo **Scoras Digital DevOps Agent**,*  
+> *verificando métricas DORA, CI/CD, segurança (CVEs, secrets, SAST) e boas práticas.*  
+> *Última avaliação: **27/05/2026***
+
+---
