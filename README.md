@@ -351,20 +351,20 @@ Please open an issue first for major changes so we can discuss the approach.
 
 ## ⚠️ Scoras Digital DevOps Agent — Verificação
 
-[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-56%2F100%20(C)-yellow?style=for-the-badge&logo=github)](./andersonamaral2_Understand-Anything_2026-06-24.md)
+[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-56%2F100%20(C)-yellow?style=for-the-badge&logo=github)](./andersonamaral2_Understand-Anything_2026-06-25.md)
 [![Scoras DevOps Agent](https://img.shields.io/badge/Scoras_DevOps_Agent-Verificado-blue?style=for-the-badge&logo=githubactions)](https://github.com/andersonamaral2/Understand-Anything)
 
 | Campo | Valor |
 |-------|-------|
 | 🤖 Avaliado por | Scoras Digital DevOps Agent |
-| 📅 Data da Avaliação | `24/06/2026` |
+| 📅 Data da Avaliação | `25/06/2026` |
 | 📊 Score DevOps & Segurança | `56/100` |
 | 🎯 Nota | C — Regular |
-| 📄 Relatório Completo | [andersonamaral2_Understand-Anything_2026-06-24.md](./andersonamaral2_Understand-Anything_2026-06-24.md) |
+| 📄 Relatório Completo | [andersonamaral2_Understand-Anything_2026-06-25.md](./andersonamaral2_Understand-Anything_2026-06-25.md) |
 
 > *Este repositório foi auditado automaticamente pelo **Scoras Digital DevOps Agent**,*  
 > *verificando métricas DORA, CI/CD, segurança (CVEs, secrets, SAST) e boas práticas.*  
-> *Última avaliação: **24/06/2026***
+> *Última avaliação: **25/06/2026***
 
 ---
 
